@@ -1,18 +1,1 @@
-# 🧠 AI Journal — Week of October 28, 2025
-
-## 🔍 Debugging Help
-This week I ran into a few bugs while working on encapsulation and property validation in Python. I used AI to help trace the issue with a class that wasn’t enforcing type constraints properly. The AI quickly spotted that I had forgotten to use a setter method and gave me a corrected version with `@property` and `@<property>.setter` decorators.  
-🔗 [Chat: Debugging Encapsulation Issue](https://copilot.microsoft.com/share/conversation/xyz456) *(replace with actual link)*
-
-## 🧪 Test Case Generation
-I asked the AI to generate assertion-based test cases for my class implementations. It provided clean, minimal examples that matched the expected behavior and helped me verify correctness without writing full unit tests. This was especially useful for validating edge cases like empty lists, zero values, and boolean flags.
-
-## 📚 Study Planning
-I used AI to help break down my upcoming workload for the week. I listed my assignments and asked it to suggest a study schedule. It gave me a simple plan that prioritized my most urgent tasks and helped me avoid last-minute cramming. I didn’t follow it perfectly, but it helped me stay on track.
-
-## 🧵 Markdown Formatting
-While preparing my journal entries for GitHub, I asked the AI to format my notes in Markdown. It gave me a clean layout with emojis, headings, and spacing that looked great in the rendered view. This saved me time and made my journal easier to read.
-
----
-
-✅ *Submitted by Darren*
+This week, I used AI to help me brainstorm business ideas that center around AI-powered models. I asked for examples of low-cost (*Because I am in college and money can be hard to come by from time to time) as well as scalable businesses that use automation chatbots, or data-driven tools. With using copilot that helped me explore options like selling chatbot templates, or offering AI-powered lead generation services, and building complex/niche tools for small businesses. It also helped me think through monetization strategies and how to position these services for different industries. This gave me a clearer direction for launching something practical and profitable with marginal startup costs.
